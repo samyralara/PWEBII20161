@@ -1,0 +1,22 @@
+Passos durante o desenvolvimento:
+
+1) Converse com o usuário e entenda o problema.
+
+2) Faça um documento de casos de uso e defina o escopo do sistema.
+
+3) Faça protótipos das principais telas.
+
+4) Faça um diagrama de classes.
+
+5) Defina as associações do modelo de classes, multiplicidade e direcionamento das associações.
+
+6) Implemente as entidades e mapeie para JPA, não mapeie as associações por enquanto.
+
+7) Refina o modelo colocando as associações e o mapeamento OR.
+
+8) Defina a estrutura da JPA do projeto, filtros, listeners, classes DAO básicas, etc.
+
+9) Execute o código e veja as tabelas que foram criadas no banco. Revise cada tabela para verificar as chaves estrangeiras
+   e primárias.
+   
+10)
